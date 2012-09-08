@@ -1,0 +1,12 @@
+{application, rels,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { rels_app, []}},
+  {env, []}
+ ]}.

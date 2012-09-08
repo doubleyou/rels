@@ -1,0 +1,5 @@
+ebin
+log
+rel/rels
+rel/app-prod
+rel/*.tar.gz
